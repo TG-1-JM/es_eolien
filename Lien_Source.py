@@ -1,3 +1,6 @@
+import random
+"""
 https://www.greenpeace.fr/impact-environnemental-eolienne/
 https://www.ademe.fr/ avril 2014
 https://climate.selectra.com/fr/empreinte-carbone/energie
+"""
